@@ -57,6 +57,7 @@ package efs.task.reflection.model;
 import efs.task.reflection.annotations.BuilderProperty;
 import efs.task.reflection.annotations.NotNull;
 
+
 /**
  * TODO Dodaj w odpowiednich miejscach adnotacje utworzone w pakiecie
  * <code>efs.task.reflection.annotations</code>
